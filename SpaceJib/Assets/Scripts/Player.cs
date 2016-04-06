@@ -19,7 +19,7 @@ public class Player : MonoBehaviour {
         Vector3 Position = new Vector3(inputX, inputY, 0);
         //Vector3 shipPosition = Camera.main.ScreenToViewportPoint(Input.mousePosition);
         //transform.position += shipPosition * Time.deltaTime;
-        PlayerShip.transform.position = Position;//3.5f;
+        PlayerShip.transform.position = Position/2;//3.5f;
         //Debug.Log(Input.mousePosition);
     }
 }
