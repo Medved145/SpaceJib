@@ -1,7 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{901B3579-6479-F4BD-FBC7-CB94B0A5484A}") = "SpaceJib", "Assembly-CSharp.csproj", "{DFFFDFF6-FA1B-0F65-90BF-CA2C605C9FAC}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceJib.CSharp", "SpaceJib.CSharp.csproj", "{FA2CB0BD-550C-FD52-45BF-7B338447E98E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DFFFDFF6-FA1B-0F65-90BF-CA2C605C9FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DFFFDFF6-FA1B-0F65-90BF-CA2C605C9FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DFFFDFF6-FA1B-0F65-90BF-CA2C605C9FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DFFFDFF6-FA1B-0F65-90BF-CA2C605C9FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2CB0BD-550C-FD52-45BF-7B338447E98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2CB0BD-550C-FD52-45BF-7B338447E98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2CB0BD-550C-FD52-45BF-7B338447E98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2CB0BD-550C-FD52-45BF-7B338447E98E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
